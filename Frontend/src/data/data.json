@@ -1,0 +1,100 @@
+{
+  "Header": {
+    "title": "Detect Fake News Instantly",
+    "paragraph": "Stay informed with real-time fake news detection and reliable content verification."
+  },
+  "About": {
+    "paragraph": "At VeriNews, we believe that accurate information is the foundation of a well-informed society. Our mission is to combat misinformation and ensure that the news you consume is reliable and truthful. our platform combines cutting-edge AI technology with a commitment to transparency and accuracy. We strive to empower individuals with the tools they need to make informed decisions.",
+    "Why": [
+      "Advanced AI Technology",
+      "Real-Time Detection",
+      "User-Friendly Interface",
+      "Comprehensive Analysis"
+    ],
+    "Why2": [
+      "Reliable Verification",
+      "Source Evaluation",
+      "Educational Resources",
+      "24/7 Support"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "News Verification",
+      "text": "Submit news articles for thorough verification and receive a detailed analysis of their credibility."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Source Evaluation",
+      "text": "Assess the reliability of news sources and understand their historical accuracy and bias."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Custom Integration",
+      "text": "Integrate our detection system into your website or app to enhance your content's credibility."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Educational Resources",
+      "text": "Access resources and training on identifying fake news and improving your media literacy."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Reporting and Feedback",
+      "text": "Provide feedback on news articles and help improve our detection algorithms with your insights."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Improve Decision Making",
+      "text": "We help you out to make the informed decision based on the checking the authenticity of the news"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"VeriNews has become an essential tool for my daily news consumption. It’s reassuring to know that the information I read is accurate.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"The real-time alerts and detailed reports have significantly improved my ability to distinguish between reliable and unreliable news sources.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"I’ve integrated VeriNews into my news app, and it has greatly enhanced the user experience with accurate news verification.\"",
+      "name": "John Doe"
+    }
+  ],
+  "Contact": {
+    "address": "New Gulberg Market, Lahore, Pakistan ",
+    "phone": "+92 344 334 1234",
+    "email": "verinews@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-search",
+      "title": "Real-Time Detection",
+      "text": "Leverage advanced AI to instantly identify and flag fake news articles as you read them."
+    },
+    {
+      "icon": "fa fa-globe",
+      "title": "Comprehensive Analysis",
+      "text": "Our system examines the credibility of news sources and cross-references information for accuracy."
+    },
+    {
+      "icon": "fa fa-desktop",
+      "title": "User-Friendly Interface",
+      "text": "Seamlessly interact with our platform through an intuitive design that makes news verification easy and accessible."
+    },
+    {
+      "icon": "fa fa-sitemap",
+      "title": "Llama3 Integration",
+      "text": "Integrate with fine-tuning Llama3 model to generate the optimized result of news detection"
+    }
+  ]
+}
